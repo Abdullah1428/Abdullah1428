@@ -1,6 +1,6 @@
 ### 👋 Hello, I am Abdullah Abdullah. (one of the most common name in the world and that also twice 😀)
 
-I am a Software Engineer interested in full-stack developement currently living in 🇸🇪 Stockholm, Sweden.
+I am a Software Engineer ( full-stack developement ) currently living in 🇸🇪 Stockholm, Sweden.
 
 - 🔭 Working as a software engineer intern at Schibsted Media Group and actively looking for a full time role.
 - 👨‍💻️ Working with JavaScript / TypeScript, React, NodeJS.
