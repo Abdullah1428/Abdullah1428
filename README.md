@@ -1,10 +1,11 @@
 ### 👋 Hello, I am Abdullah Abdullah.
 
-I am a Software Engineer ( interested in and learning full-stack development ) currently living in 🇸🇪 Stockholm, Sweden.
+A Software Engineer ( full-stack development ) with experience of over 2 years, currently living in 🇸🇪 Stockholm, Sweden.
 
-- :student: Software Engineering Masters student at Royal Institute of Technology (KTH) Stockholm. 
-- 👨‍💻️ Experience with working in JavaScript / TypeScript, React, React-Native, NodeJS, MongoDB.
-- 🌱 Currently learning about 🔶 Amazon Web Services, 📦 Java Spring Development, 📦 .NET Core, 📦 Flutter.
+🧑‍🎓 Software Engineering masters student at Royal Institute of Technology (KTH) Stockholm.
+🔭 Currently working as a Full Stack Software Engineer at Wergonic AB (a KTH based startup).
+👨‍💻️ Working with JavaScript / TypeScript, React, NestJS, NodeJS, AWS.
+🌱 Currently learning about ☁️ Serverless, 🔶 Amazon Web Services, Software Architecture.
 
 🌱 **Recent courses I've taken**
 
