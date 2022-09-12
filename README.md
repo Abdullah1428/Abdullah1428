@@ -2,10 +2,10 @@
 
 A Software Engineer ( full-stack development ) with experience of over 2 years, currently living in 🇸🇪 Stockholm, Sweden.
 
-🧑‍🎓 Software Engineering masters student at Royal Institute of Technology (KTH) Stockholm.
-🔭 Currently working as a Full Stack Software Engineer at Wergonic AB (a KTH based startup).
-👨‍💻️ Working with JavaScript / TypeScript, React, NestJS, NodeJS, AWS.
-🌱 Currently learning about ☁️ Serverless, 🔶 Amazon Web Services, Software Architecture.
+- 🧑‍🎓 Software Engineering masters student at Royal Institute of Technology (KTH) Stockholm.
+- 🔭 Currently working as a Full Stack Software Engineer at Wergonic AB (a KTH based startup).
+- 👨‍💻️ Working with JavaScript / TypeScript, React, NestJS, NodeJS, AWS.
+- 🌱 Currently learning about ☁️ Serverless, 🔶 Amazon Web Services, Software Architecture.
 
 🌱 **Recent courses I've taken**
 
