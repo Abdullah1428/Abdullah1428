@@ -2,10 +2,10 @@
 
 🌱 A Software Engineer ( full-stack development ) with experience of over 2 years, currently living in 🇸🇪 Stockholm, Sweden.
 
-- 🧑‍🎓 Master's in Software Engineering of Distributed Systems from the Royal Institute of Technology (KTH), Sweden.
-- 🔭 Currently working as a Full Stack Software Engineer at Schibsted - Aftonbladet (Sweden's largest news media source).
-- 👨‍💻️ Working and Learning around Java, JavaScript / TypeScript, Spring Boots, React, and NodeJS ecosystem.
-- 🌱 Currently taking courses about ☁️ Serverless, 🔶 Amazon Web Services, Software Architecture and Design.
+- 🔭 Software Engineer at Aftonbladet, Schibsted (Sweden's primary news media source).
+- 👨‍💻️ Working and Learning around AWS, JavaScript / TypeScript, React, and NodeJS ecosystem.
+- 🧑‍🎓 Master's in Software Engineering of Distributed Systems from the Royal Institute of Technology (KTH), Stockholm, Sweden.
+- 🌱 Currently taking courses about 🔶 Amazon Web Services, Software Architecture and Design.
 
 
 🌱 **Recent courses I've taken**
